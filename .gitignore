@@ -1,0 +1,7 @@
+/.vs/
+/IdentityServer/obj/
+/IdentityServer/bin/
+/ProductAPI/bin/
+/ProductAPI/obj/
+/TestClient/bin/
+/TestClient/obj/
